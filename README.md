@@ -1,2 +1,3 @@
 # conflicted23
-testing git conflict
+
+testing git conflict with Sam
